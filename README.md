@@ -2,4 +2,4 @@
 
 ## its Link: <https://youtu.be/4sosXZsdy-s>
 
-(Live site)[https://joe-hsn.github.io/Frontend-Project/]
+[Live site](https://joe-hsn.github.io/Frontend-Project/)
